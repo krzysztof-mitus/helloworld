@@ -20,3 +20,6 @@ to jest kod
 ```
 
 oraz [Link](https://wp.pl)
+
+my first commit line
+
